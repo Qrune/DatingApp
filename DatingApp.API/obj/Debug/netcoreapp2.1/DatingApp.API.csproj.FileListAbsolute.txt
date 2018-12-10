@@ -1,0 +1,14 @@
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/yanggao/Documents/Angular+Net/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
